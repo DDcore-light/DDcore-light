@@ -6,7 +6,7 @@
 ### <div align="center">Я Jordj работаю удаленно с 2025 года выполняя мелкие заказы по бэк и фронт разработке </div>  
   
 
-- 🔭Сейчас я работаю над [Lavka Work](https://github.com/DDcore-light/Lavka_work)  
+- 🔭Сейчас я работаю над [Lavka Work](https://github.com/DDcore-light/effective-mobile-test)  
   
 
 - 🌱 Изучаю  GO lang  
