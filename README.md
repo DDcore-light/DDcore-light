@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/DDcore-light/DDcore-light/blob/main/photo/LOGODD.png" align="center" style="width: 100%" />
+<img src="https://github.com/DDcore-light/DDcore-light/blob/main/photo/LOGOD.png" align="center" style="width: 60%" />
 </div>  
   
 
