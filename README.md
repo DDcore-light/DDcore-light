@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">Я Jordj работаю удаленно с 2025 года выполняя мелкие заказы по бэк и фронт разработке </div>  
+### <div align="center">Я Jordj учусь писать на Golang </div>  
   
 
-- 🔭Сейчас я работаю над [effective-mobile](https://github.com/DDcore-light/effective-mobile-test)  
+- 🔭Сейчас я работаю над [ЯндексЕда](https://github.com/DDcore-light/YandexEda_Golang)  
   
 
 - 🌱 Изучаю  GO lang  
